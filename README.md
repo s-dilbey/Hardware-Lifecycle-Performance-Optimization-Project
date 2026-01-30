@@ -10,6 +10,7 @@ This project documents the performance audit and hardware refresh of two legacy 
 As a career-switcher into Cyber Security/GRC, I approached this technical task through the lens of the **NIST Cybersecurity Framework**:
 
 * **Govern (GV.AM):** Established a formal asset inventory by documenting hostnames, OS versions, and hardware specifications.  
+      [View Detailed Asset Inventory](./assets/asset_inventory.md) - Full hardware specifications and baseline configurations.
 * **Protect (PR.DS):** Performed pre-migration audits for BitLocker/Device Encryption and executed secure media sanitization.
 * **Recover (RC.RP):** Developed and utilized WinPE Recovery Media to remediate bootloader failures during the migration process.
 
